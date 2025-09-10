@@ -1,4 +1,4 @@
-<img width="1030" height="527" alt="Screenshot 2025-09-10 084244" src="https://github.com/user-attachments/assets/08a599b5-6cff-4be8-b642-63a3d27ced05" /># Exno:1
+# Exno:1
 Data Cleaning Process
 
 # AIM
@@ -31,6 +31,7 @@ STEP 6: Use zscore of to remove outliers
 <img width="491" height="742" alt="Screenshot 2025-09-10 084254" src="https://github.com/user-attachments/assets/12528930-efe8-4fc9-afc3-d2b04316b8cb" />
 <img width="997" height="736" alt="Screenshot 2025-09-10 084303" src="https://github.com/user-attachments/assets/eb918e64-076b-4993-a2ae-5934c0faf38e" />
 <img width="1339" height="749" alt="Screenshot 2025-09-10 084341" src="https://github.com/user-attachments/assets/7f522018-0c86-4496-a383-0e33eff18a0a" />
+<img width="1221" height="705" alt="Screenshot 2025-09-10 090128" src="https://github.com/user-attachments/assets/a22353fa-625e-40e9-a111-3aee3d4aeb9d" />
 <img width="1374" height="724" alt="Screenshot 2025-09-10 084349" src="https://github.com/user-attachments/assets/a5b66dba-dd14-4185-8297-01dd6530e40d" />
 <img width="780" height="437" alt="Screenshot 2025-09-10 084358" src="https://github.com/user-attachments/assets/40262312-136e-42f3-ba44-89210e6d5a17" />
 <img width="752" height="377" alt="Screenshot 2025-09-10 084407" src="https://github.com/user-attachments/assets/a5d52435-144e-46bf-b9a1-3c67b68a8525" />
