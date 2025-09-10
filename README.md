@@ -32,8 +32,8 @@ STEP 6: Use zscore of to remove outliers
 <img width="997" height="736" alt="Screenshot 2025-09-10 084303" src="https://github.com/user-attachments/assets/eb918e64-076b-4993-a2ae-5934c0faf38e" />
 <img width="1339" height="749" alt="Screenshot 2025-09-10 084341" src="https://github.com/user-attachments/assets/7f522018-0c86-4496-a383-0e33eff18a0a" />
 <img width="1221" height="705" alt="Screenshot 2025-09-10 090128" src="https://github.com/user-attachments/assets/a22353fa-625e-40e9-a111-3aee3d4aeb9d" />
-<img width="1374" height="724" alt="Screenshot 2025-09-10 084349" src="https://github.com/user-attachments/assets/a5b66dba-dd14-4185-8297-01dd6530e40d" />
 <img width="780" height="437" alt="Screenshot 2025-09-10 084358" src="https://github.com/user-attachments/assets/40262312-136e-42f3-ba44-89210e6d5a17" />
+<img width="1374" height="724" alt="Screenshot 2025-09-10 084349" src="https://github.com/user-attachments/assets/a5b66dba-dd14-4185-8297-01dd6530e40d" />
 <img width="752" height="377" alt="Screenshot 2025-09-10 084407" src="https://github.com/user-attachments/assets/a5d52435-144e-46bf-b9a1-3c67b68a8525" />
 <img width="773" height="609" alt="Screenshot 2025-09-10 084415" src="https://github.com/user-attachments/assets/6ae8c010-e164-4b40-a667-8bbd46bd97a2" />
 <img width="552" height="460" alt="Screenshot 2025-09-10 084425" src="https://github.com/user-attachments/assets/b08eb21f-0c4a-474f-9a73-73088a2a52c9" />
